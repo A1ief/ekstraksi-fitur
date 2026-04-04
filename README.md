@@ -1,5 +1,3 @@
-# Buat README.md
-%%writefile README.md
 # Deteksi Penyakit Gigi dengan Computer Vision
 
 ## Deskripsi
@@ -18,7 +16,3 @@ Proyek ini mendeteksi 4 jenis penyakit gigi:
 - SVM (Akurasi: 64.20%)
 - KNN (Akurasi: 50.00%)
 - Random Forest (Akurasi: 69.32%)
-
-## Cara Menjalankan
-```bash
-python deteksi_penyakit_gigi.py
